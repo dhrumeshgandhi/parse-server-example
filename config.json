@@ -1,0 +1,14 @@
+{
+	"databaseURI":"mongodb://dcg:dcg@ds036069.mlab.com:36069/dcparse",
+	"cloud":"./cloud/main.js",
+	"appId":"app123",
+	"masterKey":"master123",
+	"restAPIKey" :"rest123",
+	"clientKey" : "client123",
+	"push":{
+		"android":{
+			"senderId":"867239175295",
+			"apiKey":"AIzaSyC9Gwhhewa0WFOlw4ok94VC4QQ_Ql9PAFs"
+		}
+	}
+}
