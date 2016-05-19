@@ -23,8 +23,8 @@ var api = new ParseServer({
   },
   push: {
       android: {
-        senderId: process.env.SENDER_ID || 'AIzaSyC9Gwhhewa0WFOlw4ok94VC4QQ_Ql9PAFs',
-        apiKey: process.env.API_KEY || '867239175295'
+        senderId: process.env.SENDER_ID || '867239175295',
+        apiKey: process.env.API_KEY || 'AIzaSyC9Gwhhewa0WFOlw4ok94VC4QQ_Ql9PAFs867239175295'
       }
     }
 });
